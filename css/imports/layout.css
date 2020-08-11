@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #ebebeb;
+    font-family: sans-serif;
+    color: #333;
+}
+
+.container {
+    background: white;
+    padding: 1rem;
+    max-width: 900px;
+    margin: 20px auto;
+    border-radius: 1rem;
+}
+
+button {
+    padding: 0.5rem;
+    height: 40px;
+}
