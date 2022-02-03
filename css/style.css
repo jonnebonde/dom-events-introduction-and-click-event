@@ -1,3 +1,17 @@
 @import "imports/layout.css";
 @import "imports/ui.css";
 @import "imports/animation.css";
+
+
+table {
+    width: 100%;
+}
+
+td {
+    border: 1px solid lightgray;
+    padding: 0.5rem;
+}
+
+.highlight {
+    background: yellow;
+}
